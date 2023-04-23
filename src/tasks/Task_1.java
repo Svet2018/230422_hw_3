@@ -12,7 +12,6 @@ public class Task_1 {
    Collections.max()
    */
 
-
     //Метод генерирует случайное число
     protected static int numGenerate(){
         int num = (int) (Math.random() * 100);
@@ -37,7 +36,6 @@ public class Task_1 {
             }
         }
         return (ArrayList<Integer>) newList;
-
     }
 
     //Метод печатает список
